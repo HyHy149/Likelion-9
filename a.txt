@@ -1,0 +1,23 @@
+currntFolder_name %
+cd "Folder name" -> change directory
+cd .. -> Move to upper level 
+
+git = Version management system
+gitHub = Version management system + Storage
+
+Unix
+Linux
+
+Git
+git config --global user.name "HyHy"
+git config --global user.email hongyen14923@gmail.com
+
+Authorize on web (github.com)
+
+git init
+git remote add origin https://github.com/HyHy149/Likelion-9.git
+git add <Filename>
+git commit -m "Register the commit"
+git push origin master
+
+Xin Chao
